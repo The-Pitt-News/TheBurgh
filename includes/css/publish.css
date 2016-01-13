@@ -1,0 +1,92 @@
+.cl_toc {
+  background-color: #eeeeff;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+table.cl_toc {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td.cl_toc {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 8px;
+}
+
+ul.cl_toc-major {
+	margin-top: 4pt;
+	padding-left: 12pt;
+	list-style-type: none;
+}
+
+a.cl_toc-major {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+p.cl_toc-major {
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+.cl_toc-clname {
+  font-weight: bold;
+}
+
+.cl_header {
+  text-align: center;
+}
+
+.cl_ad-para {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.cl_ad {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.cl_ad-img {
+  margin-top: 2px;
+  margin-bottom: 2px;
+  max-wdith: 100%;
+}
+
+.normal {
+	font-size: small;
+}
+
+.description {
+	font-size: x-small;
+}
+
+.condition {
+	display: inline-block;
+    min-width: 200pt;
+    margin-left: 8pt;
+    margin-right: 8pt;
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+}
+
+.conditionButton {
+	margin-left: 4pt;
+	margin-right: 4pt;
+}
+
+#searchForm {
+    background-color: #eeeeee;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+    padding-right: 5pt;
+    padding-left: 5pt;
+}
